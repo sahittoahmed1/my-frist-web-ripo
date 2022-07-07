@@ -1,0 +1,102 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+.in-need{
+  border: 10px;
+  color: #fff;
+  background-image: url(images/donation13.jpg);
+  margin: -5px;
+  padding: 50px;
+}
+ul.nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+ul.nav li {
+  background-color: antiquewhite;
+  position: relative;
+}
+ul.nav li a {
+  color: black;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0;
+  padding: 15px 20px;
+}
+.foo{
+  background-color: rgb(175, 155, 155);
+  box-shadow: 50px;
+}
+ul.nav li:hover {
+  background-color: red;
+}
+.ambee{
+  background-color: cyan;
+  box-shadow: 50px;
+}
+.stup{
+  background-color: blanchedalmond;
+}
+.item{
+  width: 30%;
+  margin: 15px;
+  box-shadow: 15px 15px 15px gray;
+}
+h1{
+  font-size: 50px;
+}
+.container{
+  display: flex;
+  margin-bottom: 150px;
+}
+.author{
+  width: 50%;
+  padding: 2%;
+}
+.author img{
+  width: 80%;
+}
+.button
+{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 15px 35px;
+    color:#fff;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.help{
+  text-align: center;
+  text-decoration: none;
+}
+.junior{
+  font-size: 40px;
+}
+.email{
+  padding: 10px;
+}
+.neon-button{
+  text-decoration: none;
+  background-image: linear-gradient(red,red);
+  color:#fff;
+  font-weight: 700;
+}
+.blog{
+  box-sizing: border-box;
+  background-color: blanchedalmond;
+  border-radius: 40px;
+  padding: 80px;
+  margin: 300px;
+}
+.Be-humble{
+  text-align: center;
+  color: #fff;
+  background-color: black;
+  padding: 20px;
+  font-family: 'Satisfy', cursive;
+}
